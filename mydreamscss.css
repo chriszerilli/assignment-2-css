@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+u {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+#text {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
